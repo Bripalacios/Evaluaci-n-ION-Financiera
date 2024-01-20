@@ -1,4 +1,4 @@
-  
+ 
 /* En la ejecución de este script, explica el resultado: 
 
 let text = "1212221122";
